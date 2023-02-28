@@ -1,4 +1,4 @@
-# Tech Stach :
+# Tech Stack :
 - Java
 - Maven
 - TestNG
